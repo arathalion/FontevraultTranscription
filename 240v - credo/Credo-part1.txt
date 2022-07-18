@@ -1,0 +1,38 @@
+supertitle:Fontevraud Gradual;
+title:Credo;
+subtitle:;
+text-left:Transcribed: Maximilian Doty;
+text-right:Part 1;
+annotation:;
+%%
+(c4)
+Cre(gv)d(e)o in(fv) un(d)um(e) de(g)um(h) pa(hi/jv)trem(h) om(h)ni(g)po(f)ten(gh)tem(gv) 
+(:) Fac(gv)tor(g)em(g) ce(g)li(f) et(h) ter(g)re(gv) (:) Vi(e)si(f)bi(g)li(g)um(g) 
+om(g)ni(f)um(e) et(dh/i>) in(h)visi(g)bi(f)l(h>)i(g)um(gv) (:) Et(e) in(f) 
+un(g)um(g) do(g)mi(f)num(eVd) Ie(g)sum(g) Chri(g)stum(h) fi(h>)li(h)um(h) de(f)i(hv) 
+uni(gv)ge(f)ni(h>)t(g)um(gv) (:) Et(e) ex(f) Pa(g)tre(f) nat(g)um(hv) an(h)te(h) 
+om(h)ni(g)a(f) se(hv)cul(g)a(g) (:) De(g)um(f) de(h) de(g)o(g) lu(g)men(f) de(hv) 
+lu(g)mi(f)ne(eVd) de(g)um(g) ver(g)um(hv) de(h) de(f)o(h) ver(g)o(g) (:)
+Gen(e)i(f)tum(gv) non(g) fac(g)tum(e) con(f)sub(d)stan(e)ti(f)al(g)em(e) 
+pa(g)tri(h) per(h) quem(h) om(h)ni(g)a(f) fac(h)ta(g) sunt(g) (:) Qui(f) 
+prop(g)ter(g) nos(g) ho(g)mi(f)nes(e) et(d) prop(e)ter(f) nos(g)tram(g) 
+sal(g)u(g)tem(g) des(g)cen(g)dit(f) de(h) cel(g)is(g) (:) Et(f) in(g)car(g)na(g)tus(f) 
+est(e) de(f) Spi(e)ri(d)tu(e) San(g)cto(h) ex(h) Ma(h)ri(h)a(f) vir(h)gi(g)ne(g) (:)
+Et(h) ho(h)mo(f) fac(h)tus(g) est(g) (:) Cru(f)ci(g)fix(g)us(e) et(fv)i(e)am(d) 
+pro(e) no(g)bis(h) sub(h) pon(h)ti(h)o(g) pi(f)la(g)to(g) (:) Pas(h)sus(h) et(g)
+se(f)pul(h)tus(g) est(g) (:) Et(f) re(g)sur(g)rex(gv)it(e) ter(f)ti(d)a(e) 
+di(g)e(h) se(h)cun(h)dum(g) Scrip(f)tu(g)ras(g) (:) Et(e) as(f)cen(g)dit(e) in(d) 
+ce(g)lum(hv) se(h)det(h) ad(h) dex(h)ter(f)am(h) pa(g)tris(g) (:) Et(df) it(g)er(g)um(g)
+ven(g)tu(g)rus(g) est(g) cum(g) glo(g)ri(f)a(e), ju(d)di(e)ca(g)re(hv) vi(h)vos(g) 
+et(f) mor(h)tu(g)os(g) (:) cui(g)us(g) regn(gh)i(h) non(iv) er(f)it(h) fin(g)is(g) (:) 
+Et(f) in(g) Spi(g)ri(g)tum(g) Sanc(g)tum(g) Do(g)mi(f)num(e) et(dhi) 
+vi(h)vi(g)fi(f)can(g)tem(gv) qui(f) ex(g) Pa(g)tre(g) Fi(g)li(g)o(g) qued(f) 
+pro(hv)ce(g)dit(g) (:) Qui(e) cum(f) Pa(g)tre(g) et(g) Fi(g)li(f)o(e) si(f)mul(e) 
+ad(d)or(e)a(gv)tur(h), et(h) cum(h) glo(h)ri(g)fi(f)ca(g)tur(g) (:) qui(g) 
+lo(g)cu(g)tus(g) est(g) per(f) Pro(h)phe(g)tas(g) (:) Et(ef) un(g)am(g) 
+sanc(g)tam(f) ca(h)tho(g)li(f)cam(e) et(dhi) a(h)pos(h)tol(h)i(g)cam(g) 
+Ec(f)cle(h)si(g)am(g) (:) Con(f)fi(g)te(g)or(gv) un(g)um(f) bap(h)tis(g)ma(e) 
+in(f) re(e)mis(d)si(e)o(g)nem(h) pec(f)ca(h)to(g)rum(g) (:) Et(f) ex(g)spec(g)to(e) 
+re(f)sur(e)rec(d)ti(e)o(g)nem(h) mor(f)tu(h)o(g)rum(g) (:) Et(ef) vi(g)tam(g) 
+ven(g)tu(g)ri(g) se(g)cu(f)li(e) (:) A(dh/hgf/fg/h/gfd)men.(e)
+
