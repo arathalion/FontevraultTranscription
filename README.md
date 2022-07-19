@@ -13,4 +13,4 @@
 Thanks for helping with this project!
 The way I'd like to do this for now is using the [Source and Summit Editor](https://www.sourceandsummit.com/editor/alpha). Hence, the .txt files with the scripts used to create the editor. Eventually, I may switch over to using GABC in TeX, but convenience is a huge factor for me right now.
 
-Folder name should be the same as in the  [Medieval Music Manuscripts: Full Index](http://musmed.eu/srcindex.php?src=11655): folioPage - chant1 (- chant2).
+Folder name should be the same as in the  [Medieval Music Manuscripts: Full Index](http://musmed.eu/srcindex.php?src=11655): folio(r/v) - chantName (- chantName). "r" is right, "v" is left, following the folio number. File name should be folio(r/v) - chantName (- part1). If the piece is polyphonic, part1 should be the lower part. the "chantName" is the first word of the chant.
