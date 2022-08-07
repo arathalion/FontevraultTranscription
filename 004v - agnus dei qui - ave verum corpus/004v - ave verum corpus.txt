@@ -1,0 +1,16 @@
+supertitle: Fontevrault Gradual;
+title: Ave verum corpus;
+subtitle: ;
+text-left:Maximilian Doty;
+text-right: 004v;
+annotation: 8/7/2022;
+%%
+(cb3)
+A(de/fe)ve(d) ver(e)um(f) cor(g)pus(f) na(e)tum(f) de(e) Ma(d)ri(c)a(d)
+vir(ef)gi(e)ne.(d) (,)
+Ver(de/fe)e(d) pass(e)um(f) im(g)mo(f)la(e)tum(f) in(e) cru(d)ce(c) pro(d)
+ho(ef)mi(e)ne.(d) (,) cui(f)us(h) la(i)tus(h) per(g)fo(FED)ra(e)tum(f) ver(g)o(gFE)
+flux(f)it(fED) san(c)gui(d)ne.(EFED) (,) es(f)to(h) no(i)bis(h)
+pre(g)gu(FED)stat(e)um(f) mor(g)tis(gFE) in(f) ex(FED)a(c)mi(d)ne.(EFED) (,)
+O(DE/fdg) dul(fe)cis.(d) (,) O(DE/fdg) pi(fe)e.(f) (,) O(hiHGH) fi(fe)li(d)
+Ma(cd/ed/gf)ri(fe)e.(e)
