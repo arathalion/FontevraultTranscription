@@ -1,0 +1,14 @@
+supertitle: Fontevrault Gradual;
+title: Agnus Dei;
+subtitle: ;
+text-left:Maximilian Doty;
+text-right: 004v;
+annotation: 8/7/2022;
+%%
+(c4)
+Ag(f)nus(hj) de(hgj)i(kj) (c3) qui(hi/j) tol(kJIHI)lis(h) pec(k)ca(jij)ta(k)
+mun(jIHI)di(hg/h) mi(f)se(h)re(iHG)re(fef) no(ded)bis(d)
+Ag(ff)nus(ef) de(ghgFED)i(d) qui(df) tol(hhi)lis(h) pec(k)ca(jij)ta(k)
+mun(jIHI)di(h) mi(ghf)se(h)re(iHG)re(fef) no(ded)bis(d) (,)
+Ag(d)nus(fh) de(feh)i(ih) qui(hij) to(kJIHI)llis(h) pec(k)ca(jij)ta(k)
+mun(jIHI)di(h/g/h) do(f)na(h) no(iHG)bis(gfg) (c4) pa(fg/FEDE)cem(f)
