@@ -11,7 +11,7 @@
 
 <h2>Documentation Standards</h2>
 Thanks for helping with this project!
-The way I'd like to do this for now is using the [Source and Summit Editor](https://www.sourceandsummit.com/editor/alpha). Hence, the .txt files with the scripts used to create the editor. Eventually, I may switch over to using GABC in TeX, but convenience is a huge factor for me right now.
+The way I'd like to do this for now is using the [Source and Summit Editor](https://www.sourceandsummit.com/editor/alpha) . Hence, the .txt files with the scripts used to create the editor. Eventually, I may switch over to using GABC in TeX, but convenience is a huge factor for me right now.
 Page Settings:
 Width 8.5 Height 11
 Margin 0.5
