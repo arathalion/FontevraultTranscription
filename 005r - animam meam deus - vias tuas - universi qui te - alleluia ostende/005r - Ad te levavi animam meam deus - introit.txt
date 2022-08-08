@@ -1,0 +1,17 @@
+supertitle: Fontevrault Gradual;
+title: [Ad te levavi] animam meam deus;
+subtitle: Introit and Verses - Advent I;
+text-left:Maximilian Doty;
+text-right: 005r;
+annotation: 8/7/2022;
+%%
+(c4)
+'Ad(gd~) te(f) le(gh)va(h)vi(g)' (,) an(gjj)i(h)mam(gh) me(fg)am(ghggf)
+de(h)us(jj) me(jjkj)us(jk) in(h) te(g) con(f)fi(fh/ji)do(ih) (:) non(jjj)
+e(hg)ru(ghfg)be(ghg)scam(g) ne(j)que(jjj) ir(j/hihh)ri(jkj)de(ih)ant(jji~) me(g)
+in(g)i(g)mi(gh/ji)ci(ih) me(hf)i(f) et(h) en(hg)im(g)
+u(g)ni(g)ver(gihi)si(f) qui(fg) te(gh) ex(jj)pec(ij/kj)tent(ih) non(h)
+con(h)fun(hf/hg)den(ghg)tur.(g) (::)
+<i>Ps.</i> Vi(g)as(hg) tu(gj)as(j) do(j)mi(j)ne(j) de(ji)mon(jk)stra(k)
+mi(jk)hi(j) a(h) se(j)mi(j)tas(j) tu(j)as(ji) e(gh)do(ji)ce(h) me.(g) (::)
+Glo(g)ri(hg)a(gj) pa(j)tri.(j) (::) se(j)cu(ji)lo(gh)rum.(ji) (::) A(h)men.(g) (::)
