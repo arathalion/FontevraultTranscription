@@ -1,15 +1,14 @@
 supertitle: Fontevrault Gradual;
 title: Sanctus, Sanctus, Sanctus;
 subtitle: ;
-text-left:Maximilian Doty;
 text-right: 004r;
 annotation: 7/17/2022;
 %%
 (c2)
-Sanc(fv)tus(hi/jv) Sanc(jjv)tus(hgh) Sanc(jvIHGFghgg)tus(fv) do(fv)mi(jv)nus(iv) 
-de(j)us(jk) sa(ce/jk)ba(lvJIHih)oth(hv) ple(d)ni(f/hv) sunt(hv) ce(hvGFED)li(ef) 
-et(efe) ter(d)ra(d) glo(gf/fe/fgFED)ri(fg)a(hih) tu(hi/jk)a(ijIH) 
-o(j)san(jkjj)na(hi/j) in(h) ex(jkj)cel(iHGFf/gh/gh/ih)sis.(hg>gf) 
+Sanc(fv)tus(hi/jv) Sanc(jjv)tus(hgh) Sanc(jvIHGFghgg)tus(fv) do(fv)mi(jv)nus(iv)
+de(j)us(jk) sa(ce/jk)ba(lvJIHih)oth(hv) ple(d)ni(f/hv) sunt(hv) ce(hvGFED)li(ef)
+et(efe) ter(d)ra(d) glo(gf/fe/fgFED)ri(fg)a(hih) tu(hi/jk)a(ijIH)
+o(j)san(jkjj)na(hi/j) in(h) ex(jkj)cel(iHGFf/gh/gh/ih)sis.(hg>gf)
 (c1)
-Be(k)ne(j)dic(k)tus(iij) qui(jIH) ven(ij)it(k) in(i/j/k) no(kJIH)mi(i)ne(h) 
+Be(k)ne(j)dic(k)tus(iij) qui(jIH) ven(ij)it(k) in(i/j/k) no(kJIH)mi(i)ne(h)
 do(gVFED)mi(e)ni(f) o(f)san(h)na(fed/c) in(d) ex(efef)cel(gfe/d/e)sis.(ed)

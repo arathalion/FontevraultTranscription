@@ -1,7 +1,6 @@
 supertitle: Fontevrault Gradual;
 title: [Ad te levavi] animam meam deus;
 subtitle: Introit and Verses - Advent I;
-text-left:Maximilian Doty;
 text-right: 005r;
 annotation: 8/7/2022;
 %%

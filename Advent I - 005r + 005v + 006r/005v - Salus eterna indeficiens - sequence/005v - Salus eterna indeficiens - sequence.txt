@@ -1,0 +1,18 @@
+supertitle: Fontevrault Gradual;
+title: Salus eterna indeficiens;
+subtitle: Sequence - Advent I;
+text-right: 005v;
+annotation: 8/7/2022;
+%%
+(c3)
+Sa(h)lus(i) e(j)ter(fg)na(e) in(f)de(h)fi(g)ci(f)ens(e) mun(h)di(e) vi(f)ta(e) (:)
+Lux(h) sem(i)pi(j)ter(fg)na(e) et(f) re(h)demp(g)ti(f)o(e) ve(h)re(e) nos(f)tra(e) (:)
+Con(e)do(e)lens(f) hu(g)ma(g)na(f) pe(h)ri(j)re(i) sec(i)ta(g) per(i)temp(g)tan(h)tis(f) lu(e)mi(g)na(g) (:)
+Non(e) lin(e)quens(f) ex(g)cel(g)sa(f) pe(h)tis(j)ti(i) u(i)na(g) pro(i)pri(g)a(h) cle(f)men(e)ti(g)a(g) (:)
+Vox(j) tu(k)a(j) spon(i)ta(j)ne(i)a(g) gra(h)ti(g)a(f) a(e)ssu(f)mens(g) hu(h)ma(f)na(g) (:)
+Que(j) fu(k)e(j)rant(i) per(j)di(i)ta(g) om(h)ni(g)a(f) salu(e)a(f)sti(g) ter(h)re(f)a(g) (:)
+Fer(e)ens(f) mun(h)do(f) gau(f)di(e)a(g) tu(h) a(i)ni(h)mas(f) et(g) cor(f)por(e)a(g) (:)
+No(e)stra(f) Chri(h)ste(f) ex(f)pi(e)a(g) ut(h) pos(i)si(h)de(f)ant(g) lu(f)ci(e)da(g) nos(e)met(f) ha(h)bi(f)ta(f)cu(e)la(g) (:)
+Ad(g)ven(i)tu(i) pri(i)mo(j) jus(i)ti(j)fi(i)ca(g) in(e) se(g)cun(i)do(i) nos(j)que(i) li(j)ber(i)a(h) ut(j) cum(i) fac(i)ta(h) lu(j)ce(i) ma(i)gna(g) ju(i)di(g)ca(h)bis(f) om(e)ni(g)a(g)(:)
+Comp(j)ti(k) sto(j)la(i) in(j)cor(i)rup(i)ta(g) nos(h)met(f) tu(f)a(e) sub(g)se(i)qua(j)mur(f) mox(f) ve(e)sti(h)gi(f)a(e) quo(f)cum(h)que(f) vi(f)sa(g) (:)
+A(gg)men.(f) (::)

@@ -1,7 +1,6 @@
 supertitle: Fontevrault Gradual;
 title: Universi qui te;
 subtitle: Gradual and Alleluia - Advent I;
-text-left:Maximilian Doty;
 text-right: 005r;
 annotation: 8/7/2022;
 %%
@@ -15,7 +14,7 @@ fac(hjIHi/hhf) mi(fe/ef/hhf/gh/FEf/hh)hi(hhhGFge/ed) et(e)
 se(g/hjh/gg/fg)mi(g)tas(g) tu(hf/gf/efg/ffd/ec)as(c) e(ff)do(gf)ce(fg/hgh) me.(hGFE)
 (::) (c3)
 Al(de/fED)le(fgh)lu(hji/hjjjj)ia.(hih/ffe/hhh/ef/ED/fh/hg/ehf/gf/fe)
-O(h)sten(hg/ih)de(h) no(h)bis(h) do(ghi/iHF/hfg)mi(hg)ne(g) 
+O(h)sten(hg/ih)de(h) no(h)bis(h) do(ghi/iHF/hfg)mi(hg)ne(g)
 mi(g)se(g)ri(gf)cor(hji)di(h)am(gh) tu(fe/hhGEfgECegFEfe)am(e) et(e)
 sa(e)lu(e)ta(feh)re(h) tu(hf/hGEfhFEgFEf/hhhijHF/hih/iHGhe/fe/ge/gFEfd)um(d)
 da(fe/ef) no(ji/jhj)bis.(ijHGfh/jHG) (::)

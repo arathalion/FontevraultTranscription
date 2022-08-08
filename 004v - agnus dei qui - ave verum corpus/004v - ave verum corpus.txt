@@ -1,7 +1,6 @@
 supertitle: Fontevrault Gradual;
 title: Ave verum corpus;
 subtitle: ;
-text-left:Maximilian Doty;
 text-right: 004v;
 annotation: 8/7/2022;
 %%
